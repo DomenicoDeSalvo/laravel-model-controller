@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title','Film')
+
 @section('content')
     <section>
         <div class="container">

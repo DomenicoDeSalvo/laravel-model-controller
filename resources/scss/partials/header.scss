@@ -1,0 +1,9 @@
+header{
+    color: white;
+    &::after{
+        content: '';
+        display: block;
+        border: 2px solid white;
+        width: 100%;
+    }
+}

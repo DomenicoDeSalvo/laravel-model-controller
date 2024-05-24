@@ -1,1 +1,4 @@
-@import "~bootstrap/scss/bootstrap";
+@use "~bootstrap/scss/bootstrap";
+@use "./partials/movies.scss";
+@use "./partials/layouts.scss";
+@use "./partials/header.scss";
